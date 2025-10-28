@@ -29,6 +29,12 @@
 > I like exploring the “what ifs” of machine learning.
 
 ---
+### 📊 Stats that don’t lie
+![Jayati's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayatigupta05&show_icons=true&theme=radical&hide_border=true&hide=issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayatigupta05&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=jupyter%20notebook,tex,php")
+<!-- ![Streak](https://github-readme-streak-stats.herokuapp.com?user=jayatigupta05&theme=radical&hide_border=true&background=FFFFFF00) -->
+
+---
 
 ### ✨ A little more about me
 ```python
