@@ -50,7 +50,3 @@ class Jayati:
 me = Jayati()
 me.say_hi()
 ```
-
----
-Would you like me to tweak it toward a **more mysterious / creative** tone (like a researcher who experiments with ideas), or a **tech-builder** tone (more practical, hands-on engineer style)?  
-That’ll help finalize the vibe before I polish your final version.
