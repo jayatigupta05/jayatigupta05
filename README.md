@@ -3,8 +3,7 @@
 **ML builder obsessed with turning ideas into working systems.**  
 I focus on **LLMs, Computer Vision, and real-world ML pipelines**—not just models, but things that actually run.
 
-📍 India &nbsp;|&nbsp; 🎓 Building toward ML engineering & research | 📬 [LinkedIn](https://www.linkedin.com/in/jayati-gupta-286586298/)  
-🔗 https://github.com/jayatigupta05 | 🌐 https://jayatigupta05.vercel.app/
+📍 India &nbsp;|&nbsp; 🎓 Building toward ML engineering & research | 📬 [LinkedIn](https://www.linkedin.com/in/jayati-gupta-286586298/)  🌐 [Portfolio](https://jayatigupta05.vercel.app/)
 
 ---
 
